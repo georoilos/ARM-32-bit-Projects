@@ -1,0 +1,15 @@
+"C:\Electronics\IAR Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"C:\Electronics\IAR Embedded Workbench 8.2\arm\bin\armlmiftdi.dll" 
+
+"C:\Users\georo\Documents\ARM Projects\2. Read SW Write LED\Debug\Exe\Read_SW_Write_LED.out" 
+
+--plugin="C:\Electronics\IAR Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Electronics\IAR Embedded Workbench 8.2\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="C:\Electronics\IAR Embedded Workbench 8.2\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+
